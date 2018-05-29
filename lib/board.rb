@@ -1,5 +1,5 @@
 # Define the variable board below.
-board = ["row1", "row2", "row3", "row4", ]
+board = ["row1", "row2", "row3"]
 
 "row_1 = ["", "", ""]"
 "row_2 = ["", "", ""]"
